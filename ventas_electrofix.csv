@@ -1,0 +1,224 @@
+﻿ID_Venta,Fecha,Producto_ID,Producto,Categoria,Cantidad,Precio_Unitario,Total,Cliente,Region
+1,2025-01-01,P09,Blocapuerta Drean Concept Neo Fuzzy,Repuestos Varios,2,19990,39980,Gabriela Paz,Quilmes
+2,2025-01-03,P11,Blocapuerta Drean Next 4 Contactos,Repuestos Varios,1,14990,14990,Marisa Gimenez,Banfield
+3,2025-01-07,P06,Tapa Distribuidor Lluvia Drean Next,Repuestos Varios,1,28085,28085,Juan Perez,CABA
+4,2025-01-07,P09,Blocapuerta Drean Concept Neo Fuzzy,Repuestos Varios,2,19990,39980,Hector Medina,Lanus
+5,2025-01-08,P23,Eje Central Drean Concept 5.05 / 5.05v1,Tambores y Mecanica,1,35000,35000,Marcela Sosa,Banfield
+6,2025-01-10,P22,Aro Balanceador Drean Concept 5.05,Tambores y Mecanica,2,36270,72540,Hector Medina,Lanus
+7,2025-01-12,P12,Presostato Lavarropa Drean Next Analogico,Repuestos Varios,1,14300,14300,Lucia Fernandez,Avellaneda
+8,2025-01-17,P03,Amortiguadores Drean Concept Pack x4,Repuestos Varios,1,34499,34499,Walter Ortiz,Lomas de Zamora
+9,2025-01-18,P09,Blocapuerta Drean Concept Neo Fuzzy,Repuestos Varios,1,19990,19990,Veronica Romero,Quilmes
+10,2025-01-20,P34,Bomba Desagote Drean Concept Original,Bombas y Valvulas,1,26000,26000,Gabriela Paz,La Matanza
+11,2025-01-22,P12,Presostato Lavarropa Drean Next Analogico,Repuestos Varios,4,14300,57200,Sergio Ferreyra,CABA
+12,2025-01-26,P36,Electrovalvula Lavarropas Drean Next 8.10/12/14,Bombas y Valvulas,2,12153,24306,Claudia Vega,Banfield
+13,2025-01-27,P12,Presostato Lavarropa Drean Next Analogico,Repuestos Varios,2,14300,28600,Sergio Ferreyra,Lanus
+14,2025-01-27,P42,Motor Drean Concept Neo 658 Completo,Motores,2,99999,199998,Sergio Ferreyra,La Matanza
+15,2025-01-28,P14,Polea De Motor Drean Concept 5.05v1,Repuestos Varios,2,9500,19000,Andrea Lopez,Lomas de Zamora
+16,2025-01-30,P40,Bomba Motor Impulsion Drean Dish Lavavajillas,Motores,2,157279,314558,Daniel Castro,Quilmes
+17,2025-02-01,P16,Filtro de Bomba Drean Next / Blue,Repuestos Varios,1,6200,6200,Ricardo Molina,Lanus
+18,2025-02-01,P15,Termoactuador Drean Concept / Blue Original,Repuestos Varios,1,8500,8500,Lucia Fernandez,Avellaneda
+19,2025-02-02,P09,Blocapuerta Drean Concept Neo Fuzzy,Repuestos Varios,1,19990,19990,Roberto Diaz,La Matanza
+20,2025-02-08,P34,Bomba Desagote Drean Concept Original,Bombas y Valvulas,1,26000,26000,Juan Perez,La Matanza
+21,2025-02-10,P14,Polea De Motor Drean Concept 5.05v1,Repuestos Varios,1,9500,9500,Carlos Gomez,Lomas de Zamora
+22,2025-02-12,P11,Blocapuerta Drean Next 4 Contactos,Repuestos Varios,1,14990,14990,Norma Aguirre,Avellaneda
+23,2025-02-16,P26,Kit Rulemanes Lavarropas Drean Gold 6.06,Tambores y Mecanica,2,23100,46200,Walter Ortiz,Avellaneda
+24,2025-02-17,P03,Amortiguadores Drean Concept Pack x4,Repuestos Varios,1,34499,34499,Claudia Vega,CABA
+25,2025-02-19,P15,Termoactuador Drean Concept / Blue Original,Repuestos Varios,2,8500,17000,Marisa Gimenez,Lanus
+26,2025-02-22,P14,Polea De Motor Drean Concept 5.05v1,Repuestos Varios,1,9500,9500,Roberto Diaz,Lanus
+27,2025-02-22,P17,Canasto Tambor Drean Family 046 B,Tambores y Mecanica,2,165000,330000,Ricardo Molina,Quilmes
+28,2025-02-24,P33,Bomba Desagote Drean Next / Blue Original,Bombas y Valvulas,3,31000,93000,Juan Perez,CABA
+29,2025-02-27,P02,Cuentalitros / Caudalimetro Drean Dish,Repuestos Varios,1,47000,47000,Daniel Castro,Lomas de Zamora
+30,2025-02-28,P15,Termoactuador Drean Concept / Blue Original,Repuestos Varios,2,8500,17000,Walter Ortiz,CABA
+31,2025-03-13,P33,Bomba Desagote Drean Next / Blue Original,Bombas y Valvulas,1,31000,31000,Walter Ortiz,Lanus
+32,2025-03-16,P22,Aro Balanceador Drean Concept 5.05,Tambores y Mecanica,1,36270,36270,Lucia Fernandez,Lomas de Zamora
+33,2025-03-17,P11,Blocapuerta Drean Next 4 Contactos,Repuestos Varios,1,14990,14990,Ricardo Molina,Quilmes
+34,2025-03-19,P31,Placa Heladera Patrick HPK350 / RGA300,Placas Electronicas,1,63246,63246,Sergio Ferreyra,Banfield
+35,2025-03-29,P05,Resistencia Lavavajillas Drean Dish,Repuestos Varios,1,30690,30690,Carlos Gomez,La Matanza
+36,2025-03-30,P13,Blocapuerta Drean Next Original 3 contactos,Repuestos Varios,1,12300,12300,Marisa Gimenez,La Matanza
+37,2025-04-10,P16,Filtro de Bomba Drean Next / Blue,Repuestos Varios,1,6200,6200,Silvina Acosta,Quilmes
+38,2025-04-10,P39,Motor Secarropas Drean Wind 220v Deluxe,Motores,2,158000,316000,Claudia Vega,CABA
+39,2025-04-11,P26,Kit Rulemanes Lavarropas Drean Gold 6.06,Tambores y Mecanica,2,23100,46200,Lucia Fernandez,CABA
+40,2025-04-11,P44,Motor Patriot / Diplomatic / Kendal / Thompson,Motores,2,74200,148400,Juan Perez,Banfield
+41,2025-04-19,P15,Termoactuador Drean Concept / Blue Original,Repuestos Varios,1,8500,8500,Patricia Ruiz,CABA
+42,2025-04-23,P07,Presostato Nivel Drean Family Original,Repuestos Varios,1,25749,25749,Gabriela Paz,Lomas de Zamora
+43,2025-04-24,P24,Aro Balanceador Drean Concept Neo,Tambores y Mecanica,1,30680,30680,Veronica Romero,Lomas de Zamora
+44,2025-04-25,P10,Presostato Analogico Drean Concept,Repuestos Varios,1,18600,18600,Lucia Fernandez,Quilmes
+45,2025-04-25,P35,Bomba Desagote Drean Next Alternativa,Bombas y Valvulas,2,16900,33800,Norma Aguirre,Lomas de Zamora
+46,2025-04-30,P39,Motor Secarropas Drean Wind 220v Deluxe,Motores,1,158000,158000,Marisa Gimenez,Lomas de Zamora
+47,2025-05-01,P10,Presostato Analogico Drean Concept,Repuestos Varios,1,18600,18600,Gabriela Paz,Lanus
+48,2025-05-02,P05,Resistencia Lavavajillas Drean Dish,Repuestos Varios,1,30690,30690,Hector Medina,La Matanza
+49,2025-05-08,P30,Plaqueta Drean Concept Fuzzy Tech Neo,Placas Electronicas,1,94500,94500,Walter Ortiz,CABA
+50,2025-05-09,P15,Termoactuador Drean Concept / Blue Original,Repuestos Varios,1,8500,8500,Daniel Castro,La Matanza
+51,2025-05-18,P36,Electrovalvula Lavarropas Drean Next 8.10/12/14,Bombas y Valvulas,1,12153,12153,Carlos Gomez,Lanus
+52,2025-05-19,P31,Placa Heladera Patrick HPK350 / RGA300,Placas Electronicas,1,63246,63246,Veronica Romero,CABA
+53,2025-05-24,P22,Aro Balanceador Drean Concept 5.05,Tambores y Mecanica,1,36270,36270,Gabriela Paz,Quilmes
+54,2025-05-26,P07,Presostato Nivel Drean Family Original,Repuestos Varios,1,25749,25749,Sergio Ferreyra,Lanus
+55,2025-05-27,P23,Eje Central Drean Concept 5.05 / 5.05v1,Tambores y Mecanica,1,35000,35000,Roberto Diaz,Banfield
+56,2025-05-29,P36,Electrovalvula Lavarropas Drean Next 8.10/12/14,Bombas y Valvulas,1,12153,12153,Carlos Gomez,Banfield
+57,2025-05-30,P11,Blocapuerta Drean Next 4 Contactos,Repuestos Varios,1,14990,14990,Silvina Acosta,Avellaneda
+58,2025-05-30,P11,Blocapuerta Drean Next 4 Contactos,Repuestos Varios,2,14990,29980,Carlos Gomez,Banfield
+59,2025-06-01,P07,Presostato Nivel Drean Family Original,Repuestos Varios,1,25749,25749,Gabriela Paz,CABA
+60,2025-06-01,P03,Amortiguadores Drean Concept Pack x4,Repuestos Varios,1,34499,34499,Marcela Sosa,Lanus
+61,2025-06-02,P15,Termoactuador Drean Concept / Blue Original,Repuestos Varios,1,8500,8500,Norma Aguirre,Avellaneda
+62,2025-06-03,P20,Conjunto Acople Embrague Drean Concept 5.05,Tambores y Mecanica,1,74642,74642,Silvina Acosta,Lanus
+63,2025-06-03,P35,Bomba Desagote Drean Next Alternativa,Bombas y Valvulas,1,16900,16900,Miguel Torres,Quilmes
+64,2025-06-04,P25,Eje Soporte Tambor Drean Next 8.14 / 10.12,Tambores y Mecanica,1,29900,29900,Juan Perez,Avellaneda
+65,2025-06-05,P02,Cuentalitros / Caudalimetro Drean Dish,Repuestos Varios,1,47000,47000,Sergio Ferreyra,Lanus
+66,2025-06-06,P07,Presostato Nivel Drean Family Original,Repuestos Varios,3,25749,77247,Patricia Ruiz,Lanus
+67,2025-06-06,P15,Termoactuador Drean Concept / Blue Original,Repuestos Varios,1,8500,8500,Miguel Torres,Avellaneda
+68,2025-06-07,P34,Bomba Desagote Drean Concept Original,Bombas y Valvulas,2,26000,52000,Andrea Lopez,Quilmes
+69,2025-06-07,P26,Kit Rulemanes Lavarropas Drean Gold 6.06,Tambores y Mecanica,1,23100,23100,Daniel Castro,Avellaneda
+70,2025-06-07,P22,Aro Balanceador Drean Concept 5.05,Tambores y Mecanica,2,36270,72540,Hector Medina,Banfield
+71,2025-06-08,P32,Placa Lavarropas Drean Concept 5.05 V1 Original,Placas Electronicas,1,56700,56700,Gabriela Paz,Quilmes
+72,2025-06-09,P22,Aro Balanceador Drean Concept 5.05,Tambores y Mecanica,1,36270,36270,Daniel Castro,Avellaneda
+73,2025-06-10,P17,Canasto Tambor Drean Family 046 B,Tambores y Mecanica,1,165000,165000,Claudia Vega,Avellaneda
+74,2025-06-11,P39,Motor Secarropas Drean Wind 220v Deluxe,Motores,4,158000,632000,Veronica Romero,Quilmes
+75,2025-06-11,P26,Kit Rulemanes Lavarropas Drean Gold 6.06,Tambores y Mecanica,2,23100,46200,Sergio Ferreyra,La Matanza
+76,2025-06-12,P36,Electrovalvula Lavarropas Drean Next 8.10/12/14,Bombas y Valvulas,1,12153,12153,Hector Medina,Quilmes
+77,2025-06-12,P02,Cuentalitros / Caudalimetro Drean Dish,Repuestos Varios,1,47000,47000,Patricia Ruiz,Banfield
+78,2025-06-18,P34,Bomba Desagote Drean Concept Original,Bombas y Valvulas,1,26000,26000,Veronica Romero,Quilmes
+79,2025-06-18,P43,Motor Universal Drean Concept 5.05 180w,Motores,1,87948,87948,Ricardo Molina,Lanus
+80,2025-06-25,P10,Presostato Analogico Drean Concept,Repuestos Varios,1,18600,18600,Daniel Castro,Quilmes
+81,2025-06-26,P26,Kit Rulemanes Lavarropas Drean Gold 6.06,Tambores y Mecanica,4,23100,92400,Walter Ortiz,La Matanza
+82,2025-06-29,P23,Eje Central Drean Concept 5.05 / 5.05v1,Tambores y Mecanica,2,35000,70000,Andrea Lopez,La Matanza
+83,2025-07-02,P05,Resistencia Lavavajillas Drean Dish,Repuestos Varios,1,30690,30690,Walter Ortiz,La Matanza
+84,2025-07-04,P04,Botonera Drean Next Varios Modelos,Repuestos Varios,2,33000,66000,Gabriela Paz,Quilmes
+85,2025-07-09,P28,Placa Lavarropas Drean Next 6.06 / 6.08 / 7.09 W1,Placas Electronicas,1,112500,112500,Sergio Ferreyra,Banfield
+86,2025-07-12,P15,Termoactuador Drean Concept / Blue Original,Repuestos Varios,1,8500,8500,Marcela Sosa,Avellaneda
+87,2025-07-12,P22,Aro Balanceador Drean Concept 5.05,Tambores y Mecanica,1,36270,36270,Ricardo Molina,Banfield
+88,2025-07-14,P26,Kit Rulemanes Lavarropas Drean Gold 6.06,Tambores y Mecanica,1,23100,23100,Norma Aguirre,Quilmes
+89,2025-07-15,P26,Kit Rulemanes Lavarropas Drean Gold 6.06,Tambores y Mecanica,1,23100,23100,Patricia Ruiz,Quilmes
+90,2025-07-16,P14,Polea De Motor Drean Concept 5.05v1,Repuestos Varios,1,9500,9500,Daniel Castro,Avellaneda
+91,2025-07-17,P35,Bomba Desagote Drean Next Alternativa,Bombas y Valvulas,2,16900,33800,Claudia Vega,La Matanza
+92,2025-07-18,P39,Motor Secarropas Drean Wind 220v Deluxe,Motores,4,158000,632000,Ricardo Molina,Banfield
+93,2025-07-18,P12,Presostato Lavarropa Drean Next Analogico,Repuestos Varios,1,14300,14300,Norma Aguirre,CABA
+94,2025-07-19,P11,Blocapuerta Drean Next 4 Contactos,Repuestos Varios,1,14990,14990,Ricardo Molina,Banfield
+95,2025-07-21,P04,Botonera Drean Next Varios Modelos,Repuestos Varios,1,33000,33000,Hector Medina,La Matanza
+96,2025-07-22,P16,Filtro de Bomba Drean Next / Blue,Repuestos Varios,1,6200,6200,Daniel Castro,Banfield
+97,2025-07-23,P30,Plaqueta Drean Concept Fuzzy Tech Neo,Placas Electronicas,1,94500,94500,Walter Ortiz,Lomas de Zamora
+98,2025-07-23,P03,Amortiguadores Drean Concept Pack x4,Repuestos Varios,4,34499,137996,Gabriela Paz,Banfield
+99,2025-07-23,P25,Eje Soporte Tambor Drean Next 8.14 / 10.12,Tambores y Mecanica,1,29900,29900,Lucia Fernandez,Quilmes
+100,2025-08-06,P15,Termoactuador Drean Concept / Blue Original,Repuestos Varios,2,8500,17000,Silvina Acosta,Banfield
+101,2025-08-07,P06,Tapa Distribuidor Lluvia Drean Next,Repuestos Varios,1,28085,28085,Juan Perez,CABA
+102,2025-08-08,P16,Filtro de Bomba Drean Next / Blue,Repuestos Varios,3,6200,18600,Daniel Castro,CABA
+103,2025-08-09,P36,Electrovalvula Lavarropas Drean Next 8.10/12/14,Bombas y Valvulas,1,12153,12153,Ricardo Molina,Avellaneda
+104,2025-08-14,P10,Presostato Analogico Drean Concept,Repuestos Varios,1,18600,18600,Pablo Suarez,Lanus
+105,2025-08-14,P21,Fuelle Para Lavasecarropas Drean LSCDR,Tambores y Mecanica,1,73999,73999,Veronica Romero,CABA
+106,2025-08-15,P07,Presostato Nivel Drean Family Original,Repuestos Varios,1,25749,25749,Lucia Fernandez,La Matanza
+107,2025-08-15,P06,Tapa Distribuidor Lluvia Drean Next,Repuestos Varios,1,28085,28085,Gabriela Paz,Lanus
+108,2025-08-18,P37,Motor Completo Lavarropas Drean Next 10.12 / 8.14,Motores,2,195300,390600,Hector Medina,Banfield
+109,2025-08-18,P09,Blocapuerta Drean Concept Neo Fuzzy,Repuestos Varios,1,19990,19990,Marisa Gimenez,Lomas de Zamora
+110,2025-08-22,P24,Aro Balanceador Drean Concept Neo,Tambores y Mecanica,1,30680,30680,Daniel Castro,Banfield
+111,2025-08-24,P34,Bomba Desagote Drean Concept Original,Bombas y Valvulas,2,26000,52000,Juan Perez,Avellaneda
+112,2025-08-26,P26,Kit Rulemanes Lavarropas Drean Gold 6.06,Tambores y Mecanica,3,23100,69300,Andrea Lopez,Avellaneda
+113,2025-08-27,P07,Presostato Nivel Drean Family Original,Repuestos Varios,2,25749,51498,Roberto Diaz,Lanus
+114,2025-08-29,P38,Motor Lavarropas Drean Gold Blue 12.8 / 10.8,Motores,1,179000,179000,Sergio Ferreyra,La Matanza
+115,2025-08-31,P15,Termoactuador Drean Concept / Blue Original,Repuestos Varios,1,8500,8500,Pablo Suarez,Lomas de Zamora
+116,2025-09-03,P24,Aro Balanceador Drean Concept Neo,Tambores y Mecanica,1,30680,30680,Patricia Ruiz,Lomas de Zamora
+117,2025-09-06,P39,Motor Secarropas Drean Wind 220v Deluxe,Motores,1,158000,158000,Roberto Diaz,Avellaneda
+118,2025-09-07,P25,Eje Soporte Tambor Drean Next 8.14 / 10.12,Tambores y Mecanica,2,29900,59800,Lucia Fernandez,Banfield
+119,2025-09-12,P32,Placa Lavarropas Drean Concept 5.05 V1 Original,Placas Electronicas,1,56700,56700,Marcela Sosa,Banfield
+120,2025-09-14,P41,Motor Lavarropas Drean Blue y Next 6 Contactos,Motores,1,152000,152000,Veronica Romero,La Matanza
+121,2025-09-17,P23,Eje Central Drean Concept 5.05 / 5.05v1,Tambores y Mecanica,1,35000,35000,Marcela Sosa,Banfield
+122,2025-09-19,P07,Presostato Nivel Drean Family Original,Repuestos Varios,2,25749,51498,Juan Perez,Lomas de Zamora
+123,2025-09-24,P09,Blocapuerta Drean Concept Neo Fuzzy,Repuestos Varios,1,19990,19990,Pablo Suarez,Lanus
+124,2025-09-25,P42,Motor Drean Concept Neo 658 Completo,Motores,1,99999,99999,Lucia Fernandez,La Matanza
+125,2025-09-26,P14,Polea De Motor Drean Concept 5.05v1,Repuestos Varios,1,9500,9500,Norma Aguirre,Lomas de Zamora
+126,2025-09-29,P29,Placa Lavarropas Drean Blue 7.10 / 8.12 Original,Placas Electronicas,1,109900,109900,Sergio Ferreyra,Avellaneda
+127,2025-10-01,P10,Presostato Analogico Drean Concept,Repuestos Varios,2,18600,37200,Hector Medina,Lanus
+128,2025-10-02,P10,Presostato Analogico Drean Concept,Repuestos Varios,3,18600,55800,Daniel Castro,Avellaneda
+129,2025-10-08,P03,Amortiguadores Drean Concept Pack x4,Repuestos Varios,1,34499,34499,Carlos Gomez,Quilmes
+130,2025-10-13,P05,Resistencia Lavavajillas Drean Dish,Repuestos Varios,1,30690,30690,Marisa Gimenez,La Matanza
+131,2025-10-14,P12,Presostato Lavarropa Drean Next Analogico,Repuestos Varios,1,14300,14300,Patricia Ruiz,Banfield
+132,2025-10-20,P12,Presostato Lavarropa Drean Next Analogico,Repuestos Varios,2,14300,28600,Juan Perez,CABA
+133,2025-10-22,P23,Eje Central Drean Concept 5.05 / 5.05v1,Tambores y Mecanica,2,35000,70000,Juan Perez,Quilmes
+134,2025-10-24,P01,Timer Programador Drean Family 076/086/096,Repuestos Varios,1,97000,97000,Andrea Lopez,CABA
+135,2025-10-30,P34,Bomba Desagote Drean Concept Original,Bombas y Valvulas,1,26000,26000,Roberto Diaz,La Matanza
+136,2025-10-30,P13,Blocapuerta Drean Next Original 3 contactos,Repuestos Varios,1,12300,12300,Norma Aguirre,Lanus
+137,2025-11-11,P09,Blocapuerta Drean Concept Neo Fuzzy,Repuestos Varios,1,19990,19990,Juan Perez,Lomas de Zamora
+138,2025-11-11,P25,Eje Soporte Tambor Drean Next 8.14 / 10.12,Tambores y Mecanica,2,29900,59800,Veronica Romero,Quilmes
+139,2025-11-17,P07,Presostato Nivel Drean Family Original,Repuestos Varios,4,25749,102996,Ricardo Molina,Avellaneda
+140,2025-11-18,P13,Blocapuerta Drean Next Original 3 contactos,Repuestos Varios,1,12300,12300,Veronica Romero,Avellaneda
+141,2025-11-19,P15,Termoactuador Drean Concept / Blue Original,Repuestos Varios,2,8500,17000,Ricardo Molina,CABA
+142,2025-11-20,P04,Botonera Drean Next Varios Modelos,Repuestos Varios,1,33000,33000,Veronica Romero,Banfield
+143,2025-11-25,P11,Blocapuerta Drean Next 4 Contactos,Repuestos Varios,1,14990,14990,Ricardo Molina,La Matanza
+144,2025-12-02,P24,Aro Balanceador Drean Concept Neo,Tambores y Mecanica,1,30680,30680,Carlos Gomez,Avellaneda
+145,2025-12-05,P09,Blocapuerta Drean Concept Neo Fuzzy,Repuestos Varios,1,19990,19990,Miguel Torres,La Matanza
+146,2025-12-06,P33,Bomba Desagote Drean Next / Blue Original,Bombas y Valvulas,1,31000,31000,Pablo Suarez,Quilmes
+147,2025-12-07,P12,Presostato Lavarropa Drean Next Analogico,Repuestos Varios,1,14300,14300,Andrea Lopez,Banfield
+148,2025-12-08,P05,Resistencia Lavavajillas Drean Dish,Repuestos Varios,1,30690,30690,Claudia Vega,Quilmes
+149,2025-12-09,P05,Resistencia Lavavajillas Drean Dish,Repuestos Varios,1,30690,30690,Veronica Romero,Lanus
+150,2025-12-10,P40,Bomba Motor Impulsion Drean Dish Lavavajillas,Motores,1,157279,157279,Veronica Romero,CABA
+151,2025-12-15,P21,Fuelle Para Lavasecarropas Drean LSCDR,Tambores y Mecanica,2,73999,147998,Norma Aguirre,Lomas de Zamora
+152,2025-12-15,P03,Amortiguadores Drean Concept Pack x4,Repuestos Varios,3,34499,103497,Marisa Gimenez,Lomas de Zamora
+153,2025-12-15,P14,Polea De Motor Drean Concept 5.05v1,Repuestos Varios,1,9500,9500,Daniel Castro,La Matanza
+154,2025-12-15,P09,Blocapuerta Drean Concept Neo Fuzzy,Repuestos Varios,2,19990,39980,Lucia Fernandez,Lomas de Zamora
+155,2025-12-16,P14,Polea De Motor Drean Concept 5.05v1,Repuestos Varios,1,9500,9500,Claudia Vega,Lanus
+156,2025-12-18,P23,Eje Central Drean Concept 5.05 / 5.05v1,Tambores y Mecanica,1,35000,35000,Marisa Gimenez,Lanus
+157,2025-12-19,P34,Bomba Desagote Drean Concept Original,Bombas y Valvulas,1,26000,26000,Sergio Ferreyra,CABA
+158,2025-12-25,P04,Botonera Drean Next Varios Modelos,Repuestos Varios,3,33000,99000,Marcela Sosa,Banfield
+159,2025-12-27,P08,Resistencia Lavarropas Drean Blue / Next,Repuestos Varios,1,20367,20367,Carlos Gomez,Quilmes
+160,2025-12-27,P13,Blocapuerta Drean Next Original 3 contactos,Repuestos Varios,2,12300,24600,Claudia Vega,La Matanza
+161,2025-12-28,P13,Blocapuerta Drean Next Original 3 contactos,Repuestos Varios,1,12300,12300,Juan Perez,La Matanza
+162,2026-01-05,P16,Filtro de Bomba Drean Next / Blue,Repuestos Varios,1,6200,6200,Walter Ortiz,La Matanza
+163,2026-01-06,P19,Eje Soporte Drean Concept 5.05 C12 con Rodamientos,Tambores y Mecanica,1,96922,96922,Norma Aguirre,La Matanza
+164,2026-01-06,P35,Bomba Desagote Drean Next Alternativa,Bombas y Valvulas,1,16900,16900,Sergio Ferreyra,Avellaneda
+165,2026-01-07,P25,Eje Soporte Tambor Drean Next 8.14 / 10.12,Tambores y Mecanica,1,29900,29900,Silvina Acosta,Lomas de Zamora
+166,2026-01-10,P13,Blocapuerta Drean Next Original 3 contactos,Repuestos Varios,1,12300,12300,Lucia Fernandez,Avellaneda
+167,2026-01-12,P10,Presostato Analogico Drean Concept,Repuestos Varios,1,18600,18600,Claudia Vega,Banfield
+168,2026-01-14,P14,Polea De Motor Drean Concept 5.05v1,Repuestos Varios,1,9500,9500,Veronica Romero,La Matanza
+169,2026-01-16,P09,Blocapuerta Drean Concept Neo Fuzzy,Repuestos Varios,1,19990,19990,Norma Aguirre,Lanus
+170,2026-01-23,P11,Blocapuerta Drean Next 4 Contactos,Repuestos Varios,1,14990,14990,Silvina Acosta,La Matanza
+171,2026-01-24,P15,Termoactuador Drean Concept / Blue Original,Repuestos Varios,1,8500,8500,Marisa Gimenez,CABA
+172,2026-01-25,P35,Bomba Desagote Drean Next Alternativa,Bombas y Valvulas,1,16900,16900,Marcela Sosa,Quilmes
+173,2026-01-25,P23,Eje Central Drean Concept 5.05 / 5.05v1,Tambores y Mecanica,1,35000,35000,Silvina Acosta,Lanus
+174,2026-01-31,P08,Resistencia Lavarropas Drean Blue / Next,Repuestos Varios,1,20367,20367,Silvina Acosta,Banfield
+175,2026-02-06,P26,Kit Rulemanes Lavarropas Drean Gold 6.06,Tambores y Mecanica,1,23100,23100,Norma Aguirre,Avellaneda
+176,2026-02-10,P01,Timer Programador Drean Family 076/086/096,Repuestos Varios,1,97000,97000,Juan Perez,Lomas de Zamora
+177,2026-02-12,P42,Motor Drean Concept Neo 658 Completo,Motores,3,99999,299997,Ricardo Molina,Lomas de Zamora
+178,2026-02-20,P04,Botonera Drean Next Varios Modelos,Repuestos Varios,1,33000,33000,Ricardo Molina,Avellaneda
+179,2026-02-22,P15,Termoactuador Drean Concept / Blue Original,Repuestos Varios,1,8500,8500,Claudia Vega,Avellaneda
+180,2026-02-23,P25,Eje Soporte Tambor Drean Next 8.14 / 10.12,Tambores y Mecanica,1,29900,29900,Miguel Torres,Avellaneda
+181,2026-02-25,P29,Placa Lavarropas Drean Blue 7.10 / 8.12 Original,Placas Electronicas,1,109900,109900,Pablo Suarez,Avellaneda
+182,2026-03-01,P15,Termoactuador Drean Concept / Blue Original,Repuestos Varios,1,8500,8500,Juan Perez,Lanus
+183,2026-03-04,P13,Blocapuerta Drean Next Original 3 contactos,Repuestos Varios,3,12300,36900,Andrea Lopez,Banfield
+184,2026-03-06,P21,Fuelle Para Lavasecarropas Drean LSCDR,Tambores y Mecanica,2,73999,147998,Roberto Diaz,Banfield
+185,2026-03-08,P04,Botonera Drean Next Varios Modelos,Repuestos Varios,1,33000,33000,Norma Aguirre,Lomas de Zamora
+186,2026-03-10,P11,Blocapuerta Drean Next 4 Contactos,Repuestos Varios,1,14990,14990,Marcela Sosa,CABA
+187,2026-03-11,P22,Aro Balanceador Drean Concept 5.05,Tambores y Mecanica,2,36270,72540,Norma Aguirre,Lanus
+188,2026-03-12,P33,Bomba Desagote Drean Next / Blue Original,Bombas y Valvulas,1,31000,31000,Ricardo Molina,Lomas de Zamora
+189,2026-03-13,P14,Polea De Motor Drean Concept 5.05v1,Repuestos Varios,1,9500,9500,Silvina Acosta,La Matanza
+190,2026-03-17,P25,Eje Soporte Tambor Drean Next 8.14 / 10.12,Tambores y Mecanica,2,29900,59800,Norma Aguirre,Quilmes
+191,2026-03-18,P10,Presostato Analogico Drean Concept,Repuestos Varios,1,18600,18600,Pablo Suarez,Lanus
+192,2026-03-22,P43,Motor Universal Drean Concept 5.05 180w,Motores,3,87948,263844,Juan Perez,Quilmes
+193,2026-03-22,P16,Filtro de Bomba Drean Next / Blue,Repuestos Varios,1,6200,6200,Gabriela Paz,Banfield
+194,2026-03-24,P36,Electrovalvula Lavarropas Drean Next 8.10/12/14,Bombas y Valvulas,2,12153,24306,Silvina Acosta,Lomas de Zamora
+195,2026-03-25,P04,Botonera Drean Next Varios Modelos,Repuestos Varios,2,33000,66000,Silvina Acosta,Lanus
+196,2026-03-25,P12,Presostato Lavarropa Drean Next Analogico,Repuestos Varios,1,14300,14300,Ricardo Molina,La Matanza
+197,2026-03-26,P25,Eje Soporte Tambor Drean Next 8.14 / 10.12,Tambores y Mecanica,1,29900,29900,Daniel Castro,La Matanza
+198,2026-03-27,P36,Electrovalvula Lavarropas Drean Next 8.10/12/14,Bombas y Valvulas,1,12153,12153,Carlos Gomez,Avellaneda
+199,2026-03-30,P21,Fuelle Para Lavasecarropas Drean LSCDR,Tambores y Mecanica,1,73999,73999,Sergio Ferreyra,La Matanza
+200,2026-03-31,P04,Botonera Drean Next Varios Modelos,Repuestos Varios,1,33000,33000,Juan Perez,CABA
+201,2026-04-05,P09,Blocapuerta Drean Concept Neo Fuzzy,Repuestos Varios,3,19990,59970,Marisa Gimenez,Banfield
+202,2026-04-08,P09,Blocapuerta Drean Concept Neo Fuzzy,Repuestos Varios,1,19990,19990,Sergio Ferreyra,La Matanza
+203,2026-04-10,P10,Presostato Analogico Drean Concept,Repuestos Varios,1,18600,18600,Miguel Torres,Lanus
+204,2026-04-11,P10,Presostato Analogico Drean Concept,Repuestos Varios,1,18600,18600,Pablo Suarez,Banfield
+205,2026-04-14,P34,Bomba Desagote Drean Concept Original,Bombas y Valvulas,1,26000,26000,Norma Aguirre,Lomas de Zamora
+206,2026-04-25,P33,Bomba Desagote Drean Next / Blue Original,Bombas y Valvulas,1,31000,31000,Ricardo Molina,Quilmes
+207,2026-04-27,P09,Blocapuerta Drean Concept Neo Fuzzy,Repuestos Varios,1,19990,19990,Ricardo Molina,Lomas de Zamora
+208,2026-04-27,P13,Blocapuerta Drean Next Original 3 contactos,Repuestos Varios,1,12300,12300,Roberto Diaz,Lanus
+209,2026-04-27,P34,Bomba Desagote Drean Concept Original,Bombas y Valvulas,1,26000,26000,Veronica Romero,Banfield
+210,2026-04-29,P13,Blocapuerta Drean Next Original 3 contactos,Repuestos Varios,2,12300,24600,Claudia Vega,Lanus
+211,2026-04-29,P31,Placa Heladera Patrick HPK350 / RGA300,Placas Electronicas,1,63246,63246,Norma Aguirre,CABA
+212,2026-04-30,P15,Termoactuador Drean Concept / Blue Original,Repuestos Varios,1,8500,8500,Lucia Fernandez,Lomas de Zamora
+213,2026-05-07,P23,Eje Central Drean Concept 5.05 / 5.05v1,Tambores y Mecanica,1,35000,35000,Pablo Suarez,CABA
+214,2026-05-10,P13,Blocapuerta Drean Next Original 3 contactos,Repuestos Varios,1,12300,12300,Veronica Romero,Quilmes
+215,2026-05-12,P42,Motor Drean Concept Neo 658 Completo,Motores,1,99999,99999,Patricia Ruiz,Quilmes
+216,2026-05-13,P44,Motor Patriot / Diplomatic / Kendal / Thompson,Motores,1,74200,74200,Veronica Romero,Banfield
+217,2026-05-14,P11,Blocapuerta Drean Next 4 Contactos,Repuestos Varios,3,14990,44970,Sergio Ferreyra,Quilmes
+218,2026-05-16,P12,Presostato Lavarropa Drean Next Analogico,Repuestos Varios,3,14300,42900,Daniel Castro,Lanus
+219,2026-05-16,P16,Filtro de Bomba Drean Next / Blue,Repuestos Varios,2,6200,12400,Ricardo Molina,CABA
+220,2026-05-18,P06,Tapa Distribuidor Lluvia Drean Next,Repuestos Varios,1,28085,28085,Andrea Lopez,Quilmes
+221,2026-05-18,P01,Timer Programador Drean Family 076/086/096,Repuestos Varios,1,97000,97000,Marisa Gimenez,Avellaneda
+222,2026-05-23,P39,Motor Secarropas Drean Wind 220v Deluxe,Motores,2,158000,316000,Norma Aguirre,Lomas de Zamora
+223,2026-06-01,P36,Electrovalvula Lavarropas Drean Next 8.10/12/14,Bombas y Valvulas,1,12153,12153,Andrea Lopez,Quilmes
