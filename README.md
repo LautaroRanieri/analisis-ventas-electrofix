@@ -16,6 +16,17 @@ Este proyecto fue desarrollado con asistencia de IA como herramienta de aprendiz
 - Matplotlib
 - Streamlit
 
+## Visualizaciones
+
+### Ventas totales por categoría
+![Ventas por categoría](grafico_ventas_categoria.png)
+
+### Evolución de ventas mensuales
+![Evolución mensual](grafico_evolucion_mensual.png)
+
+### Top 10 productos por ingresos
+![Top productos](grafico_top_productos.png)
+
 ## Estructura del proyecto
 
 - `analisis_electrofix.py` — script de análisis exploratorio: limpieza de datos, métricas generales, ventas por categoría, evolución mensual y top productos.
